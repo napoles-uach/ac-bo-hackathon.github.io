@@ -13,7 +13,7 @@ contributors:
   - Xuan Vu Nguyen (Università degli Studi di Milano Statale) @XuanVuNguyen
 
 github: AC-BO-Hackathon/Chihuahuas
-# youtube_video: <your-video-id>
+youtube_video: [<your-video-id>](https://youtu.be/hvODyYejxuc)
 ---
 
 The "Chihuahuas" team's research focuses on establishing the critical threshold of dataset size for achieving reliable results 
